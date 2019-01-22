@@ -3,3 +3,7 @@ __pycache__
 *~
 *.DS_Store
 TAGS
+.vscode
+dist
+*.gz
+*.egg-info
